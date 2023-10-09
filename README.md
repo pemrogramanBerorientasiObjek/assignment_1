@@ -1,6 +1,6 @@
-## Getting Started
+## Assignment 1 - Pemrograman Berorientasi Objek
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Assignment 1 tugas PBO Senin, 2 Oktober 2023
 
 ## Folder Structure
 
